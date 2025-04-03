@@ -1,4 +1,4 @@
-<h1>JavaScript>
+<h1>JavaScript</h1>
 <h2>Funcionalidades</h2>
 <ul>
     <li>O usuário digita sua idade.</li>
